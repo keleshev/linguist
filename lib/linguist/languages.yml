@@ -2789,6 +2789,8 @@ OCaml:
   - ".mli"
   - ".mll"
   - ".mly"
+  - ".mf"
+  - ".mfi"
   interpreters:
   - ocaml
   - ocamlrun
